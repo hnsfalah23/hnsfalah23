@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Hans Falah</h1>
-<h3 align="center">A passionate frontend Developer from Indonesia</h3>
+<h3 align="center">A passionate Front-End Developer from Indonesia</h3>
 <img align="right" alt="Coding" witdh="30%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnsfalah23&label=Profile%20views&color=0e75b6&style=flat" alt="hnsfalah23" /> </p>
