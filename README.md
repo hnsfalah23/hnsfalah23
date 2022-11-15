@@ -7,24 +7,21 @@
 [![](https://img.shields.io/badge/Gmail-hansfalah5%40gmail.com-red)](mailto:hansfalah5@gmail.com)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ```javascript
-const Hans = {
+const hansfalah = {
     pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
-    technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongo","mySql"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
-}
-```
+    askMeAbout: ["web dev", "tech", "ui/ux design"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React"],
+            css: ["bootstrap", "Tailwind.css", "sass"]
+        },
+        backEnd: ["Javascript", "PHP", "Pyhton"],
+        databases: ["MySql", "oracle", "MongoDB"]
+    }
+};
 
 ---
 ⭐️ From [@hnsfalah23](https://github.com/hnsfalah23)
