@@ -23,5 +23,4 @@ const hansfalah = {
     }
 };
 
----
 ⭐️ From [@hnsfalah23](https://github.com/hnsfalah23)
