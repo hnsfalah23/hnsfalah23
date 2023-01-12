@@ -7,8 +7,7 @@
 [![](https://img.shields.io/badge/Gmail-hansfalah5%40gmail.com-red)](mailto:hansfalah5@gmail.com)
 
 
-### <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-
+### 
 ```javascript
 const hansfalah = {
     pronouns: "He" | "Him",
