@@ -1,3 +1,7 @@
+<a href='https://github.com/Safouene1/support-palestine-banner'>
+  <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
+</a>
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## HELLO, I'm Muhammad Hans Falah 
